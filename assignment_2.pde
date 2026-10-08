@@ -82,4 +82,4 @@ if (caveForkOne.equalsIgnoreCase (amethystCave)) {
   } else {
     println("That is not a valid answer.");
   }
-}
+} 
